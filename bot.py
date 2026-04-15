@@ -13,7 +13,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 # ============================================================
 #  CONFIG — edit these, or set BOT_TOKEN as an env variable
 # ============================================================
-BOT_TOKEN     = os.getenv("BOT_TOKEN", "MTQ5MzcyMjA1MTQ0MDI4Mzc0OQ.GWgGyk.ANpAjXKYckT2E2c8wTGyaFXosEWX53bi1uI14c")
+BOT_TOKEN     = os.getenv("BOT_TOKEN", "MTQ5MzcyMjA1MTQ0MDI4Mzc0OQ.GiRlwN.-lqEUmDLAODcvaNVtxgu8BAI63fOVciinw0CnM")
 OWNER_ID      = 1335801328516993076      # your Discord user ID (integer)
 PREFIX        = "!"
 CURRENCY      = "🪙"
